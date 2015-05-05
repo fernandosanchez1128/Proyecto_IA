@@ -1,0 +1,4 @@
+nodos creados : 2303663
+nodos expandidos :864733
+costo solucion :27
+factor de ramificacion : [2, 3]
